@@ -1,4 +1,4 @@
-# @guoxian1
+# zhaoguoxian12345@gmail.com
 
  1 关于配置文件：配置文件按照[model] 来区分每个模块，每个模块会启动相应的线程来监听用户的日志的变化，把用户和的日志增量通过scribe收集，
      [modelname] modelname用户来自定义，在配置文件中必须是唯一的，用来区分每个模块的不同
