@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/sysdev/!svn/ver/36761/PAG/Project/dip/logtail_v/trunk
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/sysdev/!svn/ver/36743/PAG/Project/dip/logtail_v/trunk/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/sysdev/!svn/ver/36762/PAG/Project/dip/logtail_v/trunk/Makefile.in
+END
+conf
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/sysdev/!svn/ver/33872/PAG/Project/dip/logtail_v/trunk/conf
+END
+config.log
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/sysdev/!svn/ver/36742/PAG/Project/dip/logtail_v/trunk/config.log
+END
+dip_logtail
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/sysdev/!svn/ver/34752/PAG/Project/dip/logtail_v/trunk/dip_logtail
+END
+dip_logtail-1.0.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/sysdev/!svn/ver/35981/PAG/Project/dip/logtail_v/trunk/dip_logtail-1.0.tar.gz
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/sysdev/!svn/ver/36742/PAG/Project/dip/logtail_v/trunk/depcomp
+END
+thread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/sysdev/!svn/ver/34710/PAG/Project/dip/logtail_v/trunk/thread.cpp
+END
+scribe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/sysdev/!svn/ver/32299/PAG/Project/dip/logtail_v/trunk/scribe.cpp
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/sysdev/!svn/ver/36742/PAG/Project/dip/logtail_v/trunk/config.h
+END
+autoscan.log
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/sysdev/!svn/ver/36742/PAG/Project/dip/logtail_v/trunk/autoscan.log
+END
+tags
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/sysdev/!svn/ver/36742/PAG/Project/dip/logtail_v/trunk/tags
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/sysdev/!svn/ver/35981/PAG/Project/dip/logtail_v/trunk/configure.ac
+END
+tauto.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/sysdev/!svn/ver/35981/PAG/Project/dip/logtail_v/trunk/tauto.sh
+END
+dip_logtail_util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/sysdev/!svn/ver/32299/PAG/Project/dip/logtail_v/trunk/dip_logtail_util.cpp
+END
+scribe_send.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/sysdev/!svn/ver/32299/PAG/Project/dip/logtail_v/trunk/scribe_send.h
+END
+Makefile.bak
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/sysdev/!svn/ver/32299/PAG/Project/dip/logtail_v/trunk/Makefile.bak
+END
+conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/sysdev/!svn/ver/32299/PAG/Project/dip/logtail_v/trunk/conf.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/sysdev/!svn/ver/36760/PAG/Project/dip/logtail_v/trunk/Makefile
+END
+scribe_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/sysdev/!svn/ver/32299/PAG/Project/dip/logtail_v/trunk/scribe_types.h
+END
+ModelRead.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/sysdev/!svn/ver/34743/PAG/Project/dip/logtail_v/trunk/ModelRead.h
+END
+client_pid.pid
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/sysdev/!svn/ver/36760/PAG/Project/dip/logtail_v/trunk/client_pid.pid
+END
+config.status
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/sysdev/!svn/ver/36742/PAG/Project/dip/logtail_v/trunk/config.status
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/sysdev/!svn/ver/36742/PAG/Project/dip/logtail_v/trunk/ChangeLog
+END
+config.conf
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/sysdev/!svn/ver/36760/PAG/Project/dip/logtail_v/trunk/config.conf
+END
+scribe.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/sysdev/!svn/ver/32299/PAG/Project/dip/logtail_v/trunk/scribe.h
+END
+thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/sysdev/!svn/ver/32299/PAG/Project/dip/logtail_v/trunk/thread.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/sysdev/!svn/ver/36742/PAG/Project/dip/logtail_v/trunk/README
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/sysdev/!svn/ver/36742/PAG/Project/dip/logtail_v/trunk/config.h.in
+END
+scribe_send.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/sysdev/!svn/ver/32299/PAG/Project/dip/logtail_v/trunk/scribe_send.cpp
+END
+READEME
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/sysdev/!svn/ver/32299/PAG/Project/dip/logtail_v/trunk/READEME
+END
+conf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/sysdev/!svn/ver/32299/PAG/Project/dip/logtail_v/trunk/conf.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/sysdev/!svn/ver/35981/PAG/Project/dip/logtail_v/trunk/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/sysdev/!svn/ver/36742/PAG/Project/dip/logtail_v/trunk/missing
+END
+dip_logtail_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/sysdev/!svn/ver/32299/PAG/Project/dip/logtail_v/trunk/dip_logtail_util.h
+END
+scribe_types.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/sysdev/!svn/ver/32299/PAG/Project/dip/logtail_v/trunk/scribe_types.cpp
+END
+ModelRead.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/sysdev/!svn/ver/36761/PAG/Project/dip/logtail_v/trunk/ModelRead.cpp
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/sysdev/!svn/ver/32299/PAG/Project/dip/logtail_v/trunk/common.h
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/sysdev/!svn/ver/36742/PAG/Project/dip/logtail_v/trunk/install-sh
+END

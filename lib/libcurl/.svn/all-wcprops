@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/sysdev/!svn/ver/32308/PAG/Project/dip/logtail_v/trunk/lib/libcurl
+END
+curl-7.25.0.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/sysdev/!svn/ver/32308/PAG/Project/dip/logtail_v/trunk/lib/libcurl/curl-7.25.0.tar.gz
+END
+libcurl_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/sysdev/!svn/ver/32308/PAG/Project/dip/logtail_v/trunk/lib/libcurl/libcurl_install.sh
+END

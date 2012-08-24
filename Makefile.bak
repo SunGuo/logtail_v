@@ -1,0 +1,10 @@
+CC=g++
+LDFLAGS=/usr/local/sinasrc-scribe/fb303/include/thrift/fb303/lib/*.a /usr/local/sinasrc-scribe/thrift-0.5.0/include/thrift/lib/*.a
+LIBS=-lthrift -lfb303 -lpthread
+CXXFLAGS=-O2
+INCLUDE=-I/usr/local/sinasrc-scribe/fb303/include/thrift/fb303 -I/usr/local/sinasrc-scribe/thrift-0.5.0/include/thrift
+SOURCE=conf.cpp ModelRead.cpp dip_logtail_util.cpp scribe.cpp scribe_types.cpp scribe_send.cpp thread.cpp 
+dip_logtail: $(SOURCE) 
+	$(CC) $(SOURCE) -o $@ $(INCLUDE) $(LIBS) $(CXXFLAGS)
+clean:
+	rm dip_logtail
